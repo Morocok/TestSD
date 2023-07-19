@@ -1,0 +1,20 @@
+{
+  "Name": "TestSDWinget1234",
+  "Version": "1.0.0",
+  "Description": "Sólo una prueba",
+  "Publisher": "AS",
+  "Website": "https://test.com",
+  "License": "MIT",
+  "Dependencies": [
+    {
+      "Name": "python",
+      "Version": "3.9.0"
+    }
+  ],
+  "Resources": [
+    {
+      "Name": "GitHub",
+      "Url": "https://github.com/Morocok/TestSD"
+    }
+  ]
+}
