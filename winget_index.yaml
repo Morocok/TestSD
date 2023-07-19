@@ -1,0 +1,6 @@
+Sources:
+- Name: TestSD
+  Type: GitHub
+  Identifier: Morocok/TestSD
+  DisplayName: TestSD Repository
+  Arg: raw/main/TestSDwinget.yaml
