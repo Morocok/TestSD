@@ -1,0 +1,24 @@
+PackageVersion: '1.0.0'
+Publisher: sa
+License: MIT
+AppName: TestSDwinget123
+ShortDescription: "esto es una prueba"
+Tags:
+  - Herramientas
+  - Aplicación
+ManifestVersion: '1.0.0'
+AppMoniker: MiAplicacion
+PackageIdentifier: TestSDwinget123
+PackageLocale: en-US
+DefaultLocale: en-US
+InstallerType: EXE
+PackageUrl: https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win-aarch64.zip
+InstallerSha256: "SHA256HASHDELARCHIVO"
+SilentInstallerSwitch: /S
+LocaleInstallerSwitch: /L
+Installers:
+  - Arch: x64
+    InstallerUrl: https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win-aarch64.zip
+    InstallerSha256: "SHA256HASHDELARCHIVOZIP"
+    SilentInstallerSwitch: /S
+    LocaleInstallerSwitch: /L
